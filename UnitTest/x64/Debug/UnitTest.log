@@ -1,0 +1,13 @@
+﻿  UnitTest.cpp
+D:\Programs\Visual Studio\Projects\Lab_05_4\UnitTest\UnitTest.cpp(20,24): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Programs\Visual Studio\Projects\Lab_05_4\UnitTest\UnitTest.cpp(20,31): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Programs\Visual Studio\Projects\Lab_05_4\UnitTest\UnitTest.cpp(21,24): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Programs\Visual Studio\Projects\Lab_05_4\UnitTest\UnitTest.cpp(21,34): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Programs\Visual Studio\Projects\Lab_05_4\UnitTest\UnitTest.cpp(21,31): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Programs\Visual Studio\Projects\Lab_05_4\UnitTest\UnitTest.cpp(22,24): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Programs\Visual Studio\Projects\Lab_05_4\UnitTest\UnitTest.cpp(22,31): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Programs\Visual Studio\Projects\Lab_05_4\UnitTest\UnitTest.cpp(23,24): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Programs\Visual Studio\Projects\Lab_05_4\UnitTest\UnitTest.cpp(23,34): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Programs\Visual Studio\Projects\Lab_05_4\UnitTest\UnitTest.cpp(23,31): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+     Creating library D:\Programs\Visual Studio\Projects\Lab_05_4\x64\Debug\UnitTest.lib and object D:\Programs\Visual Studio\Projects\Lab_05_4\x64\Debug\UnitTest.exp
+  UnitTest.vcxproj -> D:\Programs\Visual Studio\Projects\Lab_05_4\x64\Debug\UnitTest.dll
